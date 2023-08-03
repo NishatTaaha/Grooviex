@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../Music App Advanced Level"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Music App Advanced Level"
+  }
+}

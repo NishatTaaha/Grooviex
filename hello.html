@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="music-cards-container"></div>
+    <script>
+            const musicData = [
+                {
+                    title: "Cholo Shobai",
+                    artist: "fuad",
+                    source: "audio/1.mp3"
+                },
+                {
+                    title: "MAusam",
+                    artist: "KK",
+                    source: "audio/1.mp3"
+                },
+            ];
+            function createMusicCard(title, artist, source) {
+                const musicCard = document.createElement("div");
+                musicCard.className = "music-card";
+
+                const titleElement = document.createElement("h3");
+                titleElement.innerText = title;
+                musicCard.appendChild(titleElement);
+
+                const artistElement = document.createElement("p");
+                artistElement.innerText = artist;
+                musicCard.appendChild(artistElement);
+
+                const sourceElement = document.createElement("p");
+                sourceElement.innerText = source;
+                musicCard.appendChild(sourceElement);
+
+                return musicCard;
+            }
+
+            // Get the music cards container element
+            const musicCardsContainer = document.getElementById("music-cards-container");
+
+            // Create music cards and add them to the container
+            musicData.forEach(song => {
+                const musicCard = createMusicCard(song.title, song.artist, song.source);
+                musicCardsContainer.appendChild(musicCard);
+            });
+
+    </script>
+</body>
+</html>
