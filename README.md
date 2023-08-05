@@ -1,2 +1,2 @@
 # Grooviex-- Music App
-PHP/ HTML/ CSS
+PHP/ Vanilla Javascript/ HTML/ CSS
