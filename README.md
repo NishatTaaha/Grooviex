@@ -16,4 +16,11 @@ PHP/ Vanilla Javascript/ HTML/ CSS
 **Music Page (dark mode)**
 <img width="947" alt="image" src="https://github.com/NishatTaaha/Grooviex/assets/73392394/ca6b9f90-2672-4390-b634-2b61b31ea3c4">
 
+**Music Filtering**
+<img width="945" alt="image" src="https://github.com/NishatTaaha/Grooviex/assets/73392394/4b85b719-bff9-4ede-81b7-c8a8e16cb080">
 
+**Searching**
+<img width="944" alt="image" src="https://github.com/NishatTaaha/Grooviex/assets/73392394/2b6f9aa3-b1f7-4ef4-9b41-8a9a3e564c5d">
+
+**Favourites**
+<img width="942" alt="image" src="https://github.com/NishatTaaha/Grooviex/assets/73392394/f15b7249-8827-4d3c-bf9f-4783ebcc5b16">
