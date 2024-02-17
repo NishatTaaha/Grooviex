@@ -1,7 +1,8 @@
 # Grooviex-- Music App
 PHP/ Vanilla Javascript/ HTML/ CSS
 
-<h1>**Login Page:**</h1>
+<h3>**Login Page:**</h3>
+
 ![image](https://github.com/NishatTaaha/Grooviex/assets/73392394/29639a08-c6d2-412c-945b-35dbf955749d)
 
 **SignUp Page:**
